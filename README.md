@@ -1,4 +1,4 @@
-# MS Production Cluster Overview
+# Cluster Production Cluster Overview
 
 Generate an organization level scorecard for Atlas production clusters. The script collects cluster data from the Atlas projects listed in `projects.txt`, scores each cluster, compares it with the previous report, and writes HTML, JSON, and Excel reports to `reports/`.
 
