@@ -1,0 +1,11 @@
+# MS Production Project IDs
+# Add one project ID per line. Lines starting with # are ignored.
+# 
+# Usage: python generate_report.py
+#   (automatically reads from projects.txt)
+#
+# Please list out the project ids you want to scan below (no comma after) 
+# sample ids are below
+
+abcdefgh123456789
+0987654321poiuytr
